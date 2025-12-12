@@ -1,36 +1,46 @@
 # Omnifood
-🌍 Professional Project Description (Global)
 
-Omnifood – Responsive Interactive Website (HTML, CSS & JavaScript)
+[Live Demo](https://elsayedhossny.github.io/Omnifood/)
 
-This project is a fully responsive and interactive landing website built using HTML5, CSS3, and JavaScript. It represents a modern healthy meal delivery and subscription service concept with a clean design, smooth layout, and dynamic user interactions. 
-elsayedhossny.github.io
+## Description
+Omnifood is a **fully responsive and interactive landing page** built with **HTML5, CSS3, and JavaScript**.  
+It represents a modern healthy meal delivery and subscription service with a clean design, smooth layout, and dynamic user interactions.
 
-The website includes key components such as:
+This project demonstrates **front-end development skills**, including responsive layouts, semantic HTML, CSS Grid & Flexbox, and JavaScript interactivity.
 
-Hero section with call-to-action buttons
+---
 
-How it works steps explaining the service flow
+## Features
+- Hero section with **call-to-action buttons**  
+- **How it works** steps explaining the service flow  
+- **Meals showcase** with healthy options  
+- **Testimonials** section displaying customer feedback  
+- **Pricing plans** for subscriptions  
+- Interactive **navigation and UI elements** using JavaScript  
 
-Meals showcase with healthy food options
+---
 
-Testimonials section displaying customer feedback
+## Technologies Used
+- **HTML5** – semantic structure  
+- **CSS3** – layouts, Flexbox, Grid  
+- **JavaScript** – dynamic behavior and DOM manipulation  
+- Fully **responsive design** for mobile, tablet, and desktop  
 
-Pricing plans with subscription options
+---
 
-Navigation and UI elements enhanced with JavaScript for interactivity and improved user experience. 
-elsayedhossny.github.io
+## Screenshots
+![Omnifood Screenshot](screenshot1.png)  
+*Add your screenshots here with proper file names*
 
-🛠 Technologies Used
+---
 
-HTML5 for semantic structure
+## Deployment
+The project is deployed on **GitHub Pages**:  
+[https://elsayedhossny.github.io/Omnifood/](https://elsayedhossny.github.io/Omnifood/)
 
-CSS3 for layout, Flexbox, and Grid design
+---
 
-JavaScript for interactive features and UI behavior
-
-Fully responsive design optimized for mobile, tablet, and desktop devices
-
-🎯 Purpose & Value
-
-This project demonstrates front‑end development skills essential for real‑world websites, including responsive layouts, dynamic content handling, and clean, maintainable code. It showcases the ability to build professional user interfaces from scratch using core web technologies.
+## How to Run Locally
+1. Clone the repository:  
+```bash
+git clone https://github.com/elsayedhossny/Omnifood.git
