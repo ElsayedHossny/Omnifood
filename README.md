@@ -28,12 +28,6 @@ This project demonstrates **front-end development skills**, including responsive
 
 ---
 
-## Screenshots
-![Omnifood Screenshot](screenshot1.png)  
-*Add your screenshots here with proper file names*
-
----
-
 ## Deployment
 The project is deployed on **GitHub Pages**:  
 [https://elsayedhossny.github.io/Omnifood/](https://elsayedhossny.github.io/Omnifood/)
