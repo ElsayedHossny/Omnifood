@@ -24,11 +24,4 @@ This project demonstrates **front-end development skills**, including responsive
 - **HTML5** – semantic structure  
 - **CSS3** – layouts, Flexbox, Grid  
 - **JavaScript** – dynamic behavior and DOM manipulation  
-- Fully **responsive design** for mobile, tablet, and desktop  
-
----
-
-## How to Run Locally
-1. Clone the repository:  
-```bash
-git clone https://github.com/elsayedhossny/Omnifood.git
+- Fully **responsive design** for mobile, tablet, and desktop 
