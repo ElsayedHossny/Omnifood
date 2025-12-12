@@ -28,12 +28,6 @@ This project demonstrates **front-end development skills**, including responsive
 
 ---
 
-## Deployment
-The project is deployed on **GitHub Pages**:  
-[https://elsayedhossny.github.io/Omnifood/](https://elsayedhossny.github.io/Omnifood/)
-
----
-
 ## How to Run Locally
 1. Clone the repository:  
 ```bash
